@@ -1,11 +1,12 @@
 # Pomodoro - Time Management Web App
-## This branch is for **[Heroku]** and should always able to deploy.
 ### _Made in Python with Flask_
 
 
 [![N|Solid](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)](https://flask.palletsprojects.com/en/2.0.x/)
 
 ![image](https://user-images.githubusercontent.com/76889226/141989698-56a3125c-c036-4ee9-a726-acd619797067.png)
+![image](https://user-images.githubusercontent.com/76889226/142459664-77a09689-aea4-48d6-878b-27c0e49c7e30.png)
+
 [Live Demo](https://jeb-pomodoro.herokuapp.com/)
 
 Pomodoro is Pomodoro timer for better productivity.
@@ -30,7 +31,7 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 - [x] User can change / customize the minutes in both sessions before starting
 - [x] User can set a long break session of 10 minutes. This will be activated every 4th break session
 - [ ] Users can see active pomodoro sessions of other users
-- [ ] Users can share their pomodoro sessions with other users to do joint sessions
+- [x] Users can share their pomodoro sessions with other users to do joint sessions
 
 
 ## Tech
